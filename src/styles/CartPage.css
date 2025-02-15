@@ -1,0 +1,16 @@
+.cart-container {
+    max-width: 900px;
+  }
+  
+  .table {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .btn-danger {
+    font-weight: bold;
+  }
+  
+  .text-muted {
+    font-style: italic;
+  }
